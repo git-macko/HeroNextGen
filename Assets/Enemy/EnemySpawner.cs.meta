@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3bf0f3b440b87db40b97b088316c16bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - VanillaPlaneEnemy: {fileID: 1030089151382653074, guid: be2bbee0f5e308243b9cb7dcd323689e, type: 3}
+  - ARoute: {fileID: 4240386048596050944, guid: 36bdfc729b27f834c9a56c9485f6f6df, type: 3}
+  - BRoute: {fileID: 5712531312080957694, guid: 24fe9053ec8c89a45b02502efeb6060e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
